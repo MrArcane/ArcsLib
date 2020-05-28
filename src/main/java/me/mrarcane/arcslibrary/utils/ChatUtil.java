@@ -29,6 +29,7 @@ public class ChatUtil {
     {
         ChatMessageType b = ChatMessageType.GAME_INFO;
         PacketPlayOutChat packet = new PacketPlayOutChat(IChatBaseComponent.ChatSerializer.a("{\"text\":\"" + color(text) + "\"}"), b);
+        //Send it
         ((CraftPlayer)p).getHandle().playerConnection.sendPacket((Packet<?>) packet);
     }
     public static void sendChat(CommandSender p, String msg) {

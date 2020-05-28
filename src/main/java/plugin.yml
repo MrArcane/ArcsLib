@@ -1,0 +1,12 @@
+main: me.mrarcane.arcslibrary.Main
+name: ArcsLibrary
+description: Dependecy to make mrarcane's plugins work
+version: 1.0
+author: MrArcane
+website: none
+api-version: 1.15
+
+commands:
+  arcslibrary:
+    description: Informational command
+    aliases: [al]

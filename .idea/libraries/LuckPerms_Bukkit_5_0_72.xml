@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LuckPerms-Bukkit-5.0.72">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Insanity/plugins/LuckPerms-Bukkit-5.0.72.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Insanity/spigot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Insanity/spigot.jar!/" />
+    </SOURCES>
+  </library>
+</component>

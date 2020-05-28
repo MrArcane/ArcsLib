@@ -1,0 +1,9 @@
+me\mrarcane\arcslibrary\Main.class
+me\mrarcane\arcslibrary\enums\Biomes.class
+me\mrarcane\arcslibrary\utils\EventRegisterUtil.class
+me\mrarcane\arcslibrary\utils\InventoryUtil.class
+me\mrarcane\arcslibrary\utils\ChatUtil.class
+me\mrarcane\arcslibrary\enums\ItemNames.class
+me\mrarcane\arcslibrary\commands\ArcsLibCommand.class
+me\mrarcane\arcslibrary\utils\FileUtil.class
+me\mrarcane\arcslibrary\utils\CommandUtil.class

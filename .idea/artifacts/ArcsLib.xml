@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ArcsLib">
+    <output-path>$USER_HOME$/Desktop/Insanity/plugins</output-path>
+    <root id="archive" name="ArcsLib.jar">
+      <element id="module-output" name="ArcsLib" />
+    </root>
+  </artifact>
+</component>
